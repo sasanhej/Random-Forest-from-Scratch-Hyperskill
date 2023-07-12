@@ -1,5 +1,5 @@
 # Random-Forest-from-Scratch-Hyperskill
-This is "Random Forest from Scratch Hyperskill" project form Hyperskill.<br>
+This is "Random Forest from Scratch" project form Hyperskill.<br>
 Consolidate your knowledge of the Random forest algorithm. Compare it against a standalone decision tree and check if your algorithm overfits when you increase the number of trees in it.<br>
 In this project, we will dive into implementing one of the most popular while simple enough ensemble algorithms — Random forest. Implement the entire algorithm from scratch using numpy. Test it on the titanic dataset from sklearn.<br>
 Note: This repository contains all files from Hyperskill for evaluating each step of the project and quizes and etc.<br>
